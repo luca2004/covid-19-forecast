@@ -1,4 +1,4 @@
-# covid-19-stats
+# covid-19-forecast
 
 ## Project setup
 ```
