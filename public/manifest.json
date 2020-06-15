@@ -1,0 +1,24 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "covid 19 forecast",
+    "scope": "/",
+    "display": "standalone",
+    "start_url": "https://master.d3he0yd58udth7.amplifyapp.com/",
+    "short_name": "covid 19 for",
+    "theme_color": "transparent",
+    "description": "Another Covid-19 stats app",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/favicon.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        }
+    ],
+    "url": "https://master.d3he0yd58udth7.amplifyapp.com/",
+    "screenshots": []
+}
